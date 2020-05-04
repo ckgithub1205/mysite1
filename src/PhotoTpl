@@ -1,0 +1,19 @@
+<?php
+
+namespace ck\phototool;
+
+class PhotoFactory{
+
+    public static function photo(){
+
+        print_R("测试数据");
+        
+    }
+
+
+
+
+}
+
+
+

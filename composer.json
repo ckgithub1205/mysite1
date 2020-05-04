@@ -1,0 +1,19 @@
+{
+    "name": "ck/create_photo_tpl",
+    "description": "create photo tpl",
+    "type": "library",
+    "authors": [
+        {
+            "name": "C K",
+            "email": "1834548723@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "ck\\phototool\\":"src/"
+        }
+    }
+
+}
