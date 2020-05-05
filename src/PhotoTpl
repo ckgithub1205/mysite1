@@ -1,6 +1,6 @@
 <?php
 
-namespace ck\phototool;
+namespace mrck\phototool;
 
 class PhotoFactory{
 

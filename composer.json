@@ -1,5 +1,5 @@
 {
-    "name": "ck/create_photo_tpl",
+    "name": "mrck/create_photo_tpl",
     "description": "create photo tpl",
     "type": "library",
     "authors": [
@@ -12,7 +12,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "ck\\phototool\\":"src/"
+            "mrck\\phototool\\":"src/"
         }
     }
 
