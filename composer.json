@@ -2,6 +2,7 @@
     "name": "mrck/create_photo_tpl",
     "description": "create photo tpl",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "C K",
